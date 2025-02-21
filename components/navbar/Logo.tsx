@@ -1,12 +1,13 @@
 import Link from 'next/link';
 import { Button } from '../ui/button';
-import { VscCode } from 'react-icons/vsc';
+import logo from '@/public/images/think-geek-logo.png';
+import Image from 'next/image';
 
 function Logo() {
   return (
     <Button size='icon' asChild>
       <Link href='/'>
-        <VscCode className='w-6 h-6' />
+        <Image src={logo} alt='logo'/>
       </Link>
     </Button>
   );
