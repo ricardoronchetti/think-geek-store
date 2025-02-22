@@ -6,13 +6,14 @@ Think Geek Store is an e-commerce platform built using **Next.js**, designed for
 
 ### **Tech Stack**
 
-- **Frontend:** Next.js, TypeScript, Tailwind CSS
+- **Frontend:** Next.js, TypeScript, Tailwind CSS, shadcn/ui
 - **Backend:** Prisma ORM, MongoDB Atlas
 - **Authentication:** Clerk
-- **Storage:** Supabase (for image hosting)
+- **Storage:** Supabase Bucket (for image hosting)
 - **Payments:** Stripe
 - **Validation:** Zod
 - **API Calls:** Axios
+- **Other tools:** Vite
 
 ## 📌 Features
 
@@ -21,7 +22,7 @@ Think Geek Store is an e-commerce platform built using **Next.js**, designed for
 ✅ **Shopping Cart**: Add, remove, and manage items easily.  
 ✅ **Checkout Process**: Secure Stripe-powered checkout.  
 ✅ **Authentication**: Sign up/login with Clerk.  
-✅ **Image Uploads**: Store product images via Supabase.  
+✅ **Image Uploads**: Store product images via Supabase Bucket.  
 ✅ **Admin Features**: Manage products and orders (requires admin access).  
 ✅ **Responsive Design**: Fully optimized for mobile and desktop.
 
