@@ -1,38 +1,38 @@
 [
   {
-    "name": "avant-garde lamp",
-    "company": "Modenza",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "name": "Doctor Who Figural Holiday Ornaments",
+    "company": "Think Geek",
+    "description": "The Doctor always has a Christmas special, so we assume he must celebrate Christmas. But knowing The Doctor and his love for all people, he probably also celebrates Hanukkah, Kwanzaa, Festivus... if there's an excuse for celebration and adventure, he's sure to be there.\r\n\r\nWhen The Doctor decorates his Christmas tree, we imagine it is full of ornaments from all over time and space. On a recent trip to Earth, he found these glass ornaments and just had to get them. No geek tree is complete without a little bit of shiny timey wimey.",
     "featured": true,
-    "image": "https://images.pexels.com/photos/943150/pexels-photo-943150.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "price": 100,
+    "image": "https://wkanvlsndjhqyvlnllac.supabase.co/storage/v1/object/public/think-geek-store-bucket/1740076644509-ed9f_doctor_who_christmas_ornaments.jpg",
+    "price": 13,
     "clerkId": "clerkId"
   },
   {
-    "name": "chic chair",
-    "company": "Luxora",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "name": "Star Trek Electronic Door Chime",
+    "company": "Think Geek",
+    "description": "One frequent topic of conversation at lunch with fellow geeks is how awesome it would be to have 23rd century gadgets in our 21st century world. We're not that far in the past, are we? Fewer than 200 years to go! We watch our Trek and we drool over the gadgets and gizmos and wish we could have them.\r\n\r\n...and then, our wish came true! Several cases of the wall communicator panels from The Original Series appeared in our warehouse. Mount one on the wall by your door and when someone crosses your threshold, it will alert you. Choose between the door opening sound effect or the Red Alert alarm. Whether it's a bloodthirsty Klingon bent on revenge or just your boss looking for your TPS report, you'll know the moment they appear.",
     "featured": true,
-    "image": "https://images.pexels.com/photos/5705090/pexels-photo-5705090.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "price": 200,
+    "image": "https://wkanvlsndjhqyvlnllac.supabase.co/storage/v1/object/public/think-geek-store-bucket/1740076925262-e9b8_star_trek_electronic_door_chime_closeup_1200x.webp",
+    "price": 30,
     "clerkId": "clerkId"
   },
   {
-    "name": "comfy bed",
-    "company": "Homestead",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "name": "Portal 2 Miniature Replica Portal Gun",
+    "company": "Think Geek",
+    "description": "You hopped through the wrong portal, friend. Suddenly, you're the size of a Companion Cube! The good news? You're shorter than the turrets! No more worries about being riddled with (whole) bullets. The bad news? You'll have to get even more creative with your Handheld Portal Device because you can't jump quite as far with your tiny legs. At least your Handheld Portal Device sized itself down with you!\r\n\r\nWhether you're experiencing an unexpected side effect of being in the \"control group\" at Aperture Laboratories or bemoaning your less exciting (but probably less dangerous) job, the Portal 2 Miniature Replica Portal Gun is for you. Coming in at a foot long and weighing just one pound, this miniature tool of Science looks great on your desk, displayed on a shelf with your Companion Cube, or perched on your mantel. A three-way switch lets you select the orange or blue LED, which correspond with the sound effects when you pull the trigger. It's the perfect gift for any fan of the Portal video game series and arrives in a handsome full-color gift box.",
     "featured": true,
-    "image": "https://images.pexels.com/photos/1034584/pexels-photo-1034584.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "price": 300,
+    "image": "https://wkanvlsndjhqyvlnllac.supabase.co/storage/v1/object/public/think-geek-store-bucket/1740079076934-ef3c_portal_2_miniature_replica_portal_gun.jpg",
+    "price": 48,
     "clerkId": "clerkId"
   },
   {
-    "name": "contemporary sofa",
-    "company": "Comfora",
-    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-    "featured": false,
-    "image": "https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "price": 400,
+    "name": "Classic Video Game Controller Ornament Set",
+    "company": "Think Geek",
+    "description": "When the weather outside is frightful, the glow of our TV is so delightful. Whether we're playing as Mario, Chell, Commander Shepard, or Pac-Man, video games are the sure-fire way to make us shake with laughter like a bowl full of (ochre) jelly.\r\n\r\nThis set includes four ornaments inspired by our favorite video gaming systems. We don't need to tell you what they are because you'll know it by looking at them and we don't want to insult your geek cred. Hang 'em on your Christmas tree or anywhere you need the good cheer of old school gaming.",
+    "featured": true,
+    "image": "https://wkanvlsndjhqyvlnllac.supabase.co/storage/v1/object/public/think-geek-store-bucket/1740079129802-f2cd_classic_video_game_controller_ornament_set.jpg",
+    "price": 10,
     "clerkId": "clerkId"
   }
 ]
